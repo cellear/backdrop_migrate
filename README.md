@@ -1,7 +1,7 @@
-Backdrop D8 Migrate
+Backdrop Migrate
 ======================
 
-This module allows Drupal 8's built-in migrate system to access data stored inside the database
+This module (for Drupal 8+) allows Drupal's built-in migrate system to access data stored inside the database
 of a Backdrop CMS site, and copy its data into the host D8 system.
 
 License
